@@ -1,0 +1,15 @@
+com\apps\test\list\example\TargetObjectTypeClass.class
+com\apps\test\list\example\ListToOjectMapperImpl.class
+com\apps\test\list\example\LastElement.class
+com\apps\test\list\example\ListToObjectRestController.class
+com\apps\test\list\example\ListToObjectUtil.class
+com\apps\test\domain\customer\CustomerInfo.class
+com\apps\test\domain\customer\mapper\CustomerInfoMapperImpl.class
+com\apps\test\jaxb\customer\MailingAddressInfo.class
+com\apps\test\list\example\FirstElement.class
+com\apps\test\TestApplication.class
+com\apps\test\list\example\ListToOjectMapper.class
+com\apps\test\customer\main\CustomerMainRestController.class
+com\apps\test\jaxb\customer\CustomerInfoType.class
+com\apps\test\domain\customer\mapper\CustomerInfoMapper.class
+com\apps\test\list\example\SourceListTypeClass.class
